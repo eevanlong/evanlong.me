@@ -1,0 +1,17 @@
+:root {
+  --vp-c-brand: #646cff;
+  --vp-c-brand-light: #747bff;
+  --vp-c-border-radius: 50%;
+}
+
+.logo {
+  border-radius: var(--vp-c-border-radius);
+}
+
+.VPFooter {
+  padding: 15px 0 !important;
+}
+
+.VPHome {
+  text-align: center;
+}
