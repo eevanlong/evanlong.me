@@ -6,14 +6,19 @@ title: XHTML
 
 **可扩展超文本标记语言**（英语：e**X**tensible **H**yper**T**ext **M**arkup **L**anguage，XHTML），是一种[标记语言](https://zh.m.wikipedia.org/wiki/标记语言)，表现方式与[超文本标记语言](https://zh.m.wikipedia.org/wiki/超文本标记语言)（[HTML](https://zh.m.wikipedia.org/wiki/HTML)）类似，不过语法上更加严格。从继承关系上讲，HTML 是一种基于[标准通用标记语言](https://zh.m.wikipedia.org/wiki/标准通用标记语言)（[SGML](https://zh.m.wikipedia.org/wiki/SGML)）的应用，是一种非常灵活的置标语言，而**XHTML**则基于[可扩展标记语言](https://zh.m.wikipedia.org/wiki/可扩展标记语言)（[XML](https://zh.m.wikipedia.org/wiki/XML)），XML 是[SGML](https://zh.m.wikipedia.org/wiki/SGML)的一个子集。XHTML 1.0 在 2000 年 1 月 26 日成为[W3C](https://zh.m.wikipedia.org/wiki/W3C)的推荐标准。
 
-| <img src="http://typora.123mtr.top/275px-XHTML.svg.png" alt="275px-XHTML.svg" style="zoom:25%;" /> |                                                                                                                                                                                                                                                                                               |
-| :------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [扩展名](https://zh.m.wikipedia.org/wiki/扩展名)                                                   | `.xhtml, .xht, .html, .htm`                                                                                                                                                                                                                                                                   |
-| [互联网媒体类型](https://zh.m.wikipedia.org/wiki/互联网媒体类型)                                   | `application/xhtml+xml`                                                                                                                                                                                                                                                                       |
-| 开发者                                                                                             | [World Wide Web Consortium](https://zh.m.wikipedia.org/wiki/World_Wide_Web_Consortium)                                                                                                                                                                                                        |
-| 格式类型                                                                                           | [标记语言](https://zh.m.wikipedia.org/wiki/标记语言)                                                                                                                                                                                                                                          |
-| 扩展自                                                                                             | [XML](https://zh.m.wikipedia.org/wiki/XML), [HTML](https://zh.m.wikipedia.org/wiki/HTML)                                                                                                                                                                                                      |
-| 标准                                                                                               | [1.0 (Recommendation)](http://www.w3.org/TR/xhtml1/), [1.1 (Recommendation)](http://www.w3.org/TR/2001/REC-xhtml11-20010531/), [1.1 SE (Working Draft)](http://www.w3.org/TR/xhtml11/), [5 (Working Draft)](http://www.w3.org/TR/html5/), [2.0 (Working Draft)](http://www.w3.org/TR/xhtml2/) |
+:::tip
+[扩展名](https://zh.m.wikipedia.org/wiki/扩展名)： `.xhtml, .xht, .html, .htm`
+
+[互联网媒体类型](https://zh.m.wikipedia.org/wiki/互联网媒体类型)：`application/xhtml+xml`
+
+开发者：[World Wide Web Consortium](https://zh.m.wikipedia.org/wiki/World_Wide_Web_Consortium)
+
+格式类型：[标记语言](https://zh.m.wikipedia.org/wiki/标记语言)
+
+扩展自：[XML](https://zh.m.wikipedia.org/wiki/XML), [HTML](https://zh.m.wikipedia.org/wiki/HTML)
+
+标准：[1.0 (Recommendation)](http://www.w3.org/TR/xhtml1/), [1.1 (Recommendation)](http://www.w3.org/TR/2001/REC-xhtml11-20010531/), [1.1 SE (Working Draft)](http://www.w3.org/TR/xhtml11/), [5 (Working Draft)](http://www.w3.org/TR/html5/), [2.0 (Working Draft)](http://www.w3.org/TR/xhtml2/)
+:::
 
 XHTML1.1 为 XHTML 最后的独立标准，2.0 止于草案阶段。XHTML5 则是属于 HTML5 标准的一部分，且名称已改为“以 XML 序列化的 HTML5”，而非“可扩展的 HTML”。在今日(2017 年)，XHTML5 比起 HTML5 仍远远并非主流。
 
