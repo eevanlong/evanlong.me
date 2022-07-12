@@ -130,6 +130,7 @@ export default defineConfig({
             { text: 'MySQL基本操作', link: '/backend/mysql/基本操作' },
             { text: 'MySQL表库管理', link: '/backend/mysql/表库管理' },
             { text: 'SQL查询', link: '/backend/mysql/查询' },
+            { text: 'SQL更新', link: '/backend/mysql/更新' },
             { text: 'SQL插入', link: '/backend/mysql/插入' },
             { text: 'SQL删除', link: '/backend/mysql/删除' },
           ],
